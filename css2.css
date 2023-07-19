@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+ul{
+    display:inline;
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
